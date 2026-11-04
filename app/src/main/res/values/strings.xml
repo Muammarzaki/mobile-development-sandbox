@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mobile</string>
+    <string name="default_view">nothing</string>
+    <string name="button_center">center</string>
+    <string name="button_left">left</string>
+    <string name="button_right">right</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rec_button">100dp</dimen>
+    <dimen name="text_size">26sp</dimen>
+    <dimen name="max_length_text">220dp</dimen>
+</resources>
